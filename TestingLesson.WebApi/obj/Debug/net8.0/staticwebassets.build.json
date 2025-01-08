@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pWI+xbDGxNyL8N1kIXyaKO31NFGaY5cu5rc3Abx4ij8=",
+  "Source": "TestingLesson.WebApi",
+  "BasePath": "_content/TestingLesson.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
